@@ -1,4 +1,4 @@
-Github.io url:
+Github.io url: https://prith17.github.io/personal_website/
 
 Website Header banner:"Welcome to my Personal Page!!".
 
