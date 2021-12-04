@@ -1,0 +1,92 @@
+
+
+body{
+
+background: url('1.jpg');
+
+}
+
+h1{
+
+    display: table; /* keep the background color wrapped tight */
+    margin: 0px auto 0px auto; /* keep the table centered */
+    padding:5px;font-size:20px;
+    background-color:#FF8C00;
+    font-family: fantasy;
+    color:black;
+    font-size: 60px;
+
+}
+
+
+n{
+
+color:#FF8C00;
+
+}
+
+h2{
+text-align: center;
+font-family: fantasy;
+color:#FF8C00;
+
+}
+
+div{
+
+background-color: black;
+
+}
+
+
+
+
+p{
+
+font-size: 20px;
+font-family: Lucida Handwriting;
+color:#FFFFFF;
+text-align: center;
+}
+
+ul {
+  text-align: center;
+  list-style-position: inside;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #000000;
+  
+}
+
+li {
+  float: left;
+}
+
+li a, .dropbtn {
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding: 14px 25px;
+  text-decoration: none;
+}
+
+li a:hover, .dropdown:hover .dropbtn {
+  background-color: #FF8C00;
+}
+
+li.dropdown {
+  display: inline-block;
+}
+
+
+
+<!-- column styles-->
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
