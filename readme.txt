@@ -33,7 +33,7 @@ DEPENDENCIES
                                  \_ _ _ _ _             |                                                
 				 |  Home   |<-----------|         
                                   ----------            |                          
-                                                        |------------------------> cv.pdf								  |Experience
+                                                        |------------------------> cv.pdf								
 	 						Curriculum Vitae
 
 
